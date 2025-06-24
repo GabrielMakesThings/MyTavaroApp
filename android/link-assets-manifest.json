@@ -1,0 +1,25 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "assets/Fonts/Georgia Bold Italic.ttf",
+      "sha1": "d578770a24251c865b464f4a573c9f24ccddd41e"
+    },
+    {
+      "path": "assets/Fonts/Georgia Bold.ttf",
+      "sha1": "67b1de4b2395ddafcc4b7c619a923894f3e4ecdd"
+    },
+    {
+      "path": "assets/Fonts/Georgia Italic.ttf",
+      "sha1": "21b9eff433ae99d537fab172c71b09f73e9673f5"
+    },
+    {
+      "path": "assets/Fonts/Georgia.ttf",
+      "sha1": "f856787ba70ff46e49dd52ba092bea6755c810b5"
+    },
+    {
+      "path": "assets/Fonts/Marcellus-Regular.ttf",
+      "sha1": "a83ca5e1e8dbf8316177ff5f2f360ea3e1708981"
+    }
+  ]
+}

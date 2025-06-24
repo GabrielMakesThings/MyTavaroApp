@@ -1,0 +1,9 @@
+<svg id="Group_302" data-name="Group 302" xmlns="http://www.w3.org/2000/svg" width="37.5" height="35.834" viewBox="0 0 37.5 35.834">
+  <g id="Group_303" data-name="Group 303">
+    <path id="Path_263" data-name="Path 263" d="M27.917,12.917h1.667a6.667,6.667,0,0,1,0,13.333H27.917" fill="none" stroke="#eadfd6" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5"/>
+    <path id="Path_264" data-name="Path 264" d="M1.25,12.917H27.917v15a6.667,6.667,0,0,1-6.667,6.667H7.917A6.667,6.667,0,0,1,1.25,27.917Z" fill="none" stroke="#eadfd6" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5"/>
+    <line id="Line_37" data-name="Line 37" y2="5" transform="translate(7.917 1.25)" fill="none" stroke="#eadfd6" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5"/>
+    <line id="Line_38" data-name="Line 38" y2="5" transform="translate(14.583 1.25)" fill="none" stroke="#eadfd6" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5"/>
+    <line id="Line_39" data-name="Line 39" y2="5" transform="translate(21.25 1.25)" fill="none" stroke="#eadfd6" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5"/>
+  </g>
+</svg>

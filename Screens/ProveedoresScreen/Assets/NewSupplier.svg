@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="67.387" height="67.385" viewBox="0 0 67.387 67.385">
+  <defs>
+    <filter id="Line_35" x="4.466" y="17.443" width="58.453" height="32.5" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feFlood flood-color="#fff" flood-opacity="0.251"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_274" data-name="Group 274" transform="translate(-1.183 -1.183)">
+    <g id="Group_275" data-name="Group 275" transform="translate(0 0)">
+      <path id="Path_260" data-name="Path 260" d="M33.693,1.25A32.442,32.442,0,1,1,1.25,33.693,32.443,32.443,0,0,1,33.693,1.25Z" transform="translate(1.183 1.183)" fill="none" stroke="#f4e3d6" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5"/>
+      <line id="Line_34" data-name="Line 34" y2="25.953" transform="translate(34.876 21.898)" fill="none" stroke="#f4e3d6" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5"/>
+      <g transform="matrix(1, 0, 0, 1, 1.18, 1.18)" filter="url(#Line_35)">
+        <line id="Line_35-2" data-name="Line 35" x2="25.953" transform="translate(20.72 33.69)" fill="none" stroke="#f4e3d6" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5"/>
+      </g>
+    </g>
+  </g>
+</svg>

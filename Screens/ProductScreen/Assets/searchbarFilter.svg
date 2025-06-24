@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="21.276" height="8.922" viewBox="0 0 21.276 8.922">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_245" data-name="Rectangle 245" width="21.276" height="8.922" fill="none" stroke="#eda46a" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="searchbar" transform="translate(2 1)">
+    <g id="Group_238" data-name="Group 238" transform="translate(-2 -1)" clip-path="url(#clip-path)">
+      <line id="Line_4" data-name="Line 4" x1="9.429" transform="translate(5.923 7.588)" fill="none" stroke="#eda46a" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.1"/>
+      <line id="Line_5" data-name="Line 5" x1="14.144" transform="translate(3.566 4.445)" fill="none" stroke="#eda46a" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.1"/>
+      <line id="Line_6" data-name="Line 6" x2="17.122" transform="translate(2.077 1.333)" fill="none" stroke="#eda46a" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.1"/>
+    </g>
+  </g>
+</svg>
